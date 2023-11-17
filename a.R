@@ -12,3 +12,5 @@ cook_vegan_pancakes <- function(){
   print("Mix 1 large mature banana with 2 tbsp sugar, a pinch of salt, 120g flour, 1/2 tbsp baking powder, and 150ml oatmilk. Fry on a medium heated pan in a bit of oil or margerine. Serve with sliced fruits and a bit of syrup. Enjoy <3")
 
 }
+
+# Do you like banana pancakes?
